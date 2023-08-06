@@ -1,5 +1,4 @@
 # UrbanStylist
-Exciting projects made with passion.
 
 www.theurbanstylists.com
 
